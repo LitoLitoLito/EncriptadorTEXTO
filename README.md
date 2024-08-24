@@ -17,10 +17,10 @@ El **Encriptador de Texto** es una herramienta web interactiva que permite a los
 ## Capturas de Pantalla
 
 ### Pantalla Principal
-![Pantalla Principal](ruta/a/tu/captura-de-pantalla.png)
+![Pantalla Principal](./imagenes/captura-de-pantalla_2.jpg)
 
 ### Encriptación de Texto
-![Encriptación de Texto](ruta/a/tu/captura-de-pantalla-encriptar.png)
+![Encriptación de Texto](./imagenes/captura-de-pantalla_3.jpg)
 
 ## Cómo Usar
 
@@ -39,7 +39,7 @@ El **Encriptador de Texto** es una herramienta web interactiva que permite a los
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tuusuario/encriptador-texto.git
+   git clone https://github.com/LitoLitoLito/EncriptadorTEXTO
    ```
 
 2. Navega al directorio del proyecto:
@@ -58,11 +58,6 @@ El **Encriptador de Texto** es una herramienta web interactiva que permite a los
 
 ¡Contribuciones son bienvenidas! Si tienes ideas para mejorar este proyecto, siéntete libre de abrir un _issue_ o enviar un _pull request_.
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
 
 **Autor:** Julio C. Acuña  
 **Año:** 2024
@@ -73,6 +68,6 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENS
 
 Si tienes alguna pregunta o sugerencia, puedes contactarme a través de:
 
-- **Email:** tuemail@example.com
-- **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/tuusuario/)
+- **Email:** saltagaceta@yahoo.com.ar
+- **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/julio-lito-acu%C3%B1a-593aab79/)
 # EncriptadorTEXTO
