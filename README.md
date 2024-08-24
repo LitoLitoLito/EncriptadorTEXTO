@@ -1,7 +1,7 @@
 
 # Encriptador de Texto
 
-![Project Screenshot](ruta/a/tu/captura-de-pantalla.png)
+![Project Screenshot](./imagenes/captura-de-pantalla.jpg)
 
 ## Descripción
 
