@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="./imagenes/icons8-internet-48.png">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <title>Encriptador de Texto</title>
+</head>
+<body>
+
+    <!-- Encabezado -->
+    <header>
+        <a href="#" rel="">
+            <img src="./imagenes/logo.png" alt="Logo Alura" class="logo">
+        </a>    
+    </header>
+
+    <!-- Principal -->
+    <main>
+        <section class="encriptador">
+            <textarea class="input-texto" placeholder="Ingrese el texto aquí"></textarea>
+            <div class="aviso">
+                <img src="./imagenes/exclamacion.png" alt="Imagen Aviso" class="img-aviso">
+                <p class="mensaje-aviso">Puede ingresar mayúsculas, acentos y caracteres especiales.</p>
+            </div>
+            <div class="botonera">
+                <button type="submit" class="btn-encriptar">Encriptar !</button>
+                <button type="submit" class="btn-desencriptar">Desencriptar !</button>
+            </div>
+        </section>
+        <section class="tarjeta">
+           <div class="contenedor-tarjeta">
+                <img src="./imagenes/muneco.png" alt="Imagen Muñeco" class="img-muñeco">
+                <p class="mensaje-uno">Ningún mensaje fue encontrado</p>
+                <p class="mensaje-dos">Ingrese el texto que deseas encriptar o desencriptar</p>
+           </div>
+           <textarea class="resultado" readonly></textarea>
+           <button type="submit" class="btn-copiar">Copiar</button>
+         </section>  
+
+        
+    </main>
+
+    <!-- Pie de Página -->
+    <footer>
+        <p class="copyright">Encriptador de Texto - Julio C. Acuña - 2024</p>
+    </footer>
+
+    <script src="./js/encriptador.js"></script>
+
+</body>
+</html>
